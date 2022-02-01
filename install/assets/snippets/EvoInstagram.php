@@ -9,7 +9,7 @@
 
 */
 //<?php
-require_once MODX_BASE_PATH . 'assets/snippets/Instagram/Instagram.class.php';
+require_once MODX_BASE_PATH . 'assets/snippets/EvoInstagram/Instagram.class.php';
 	
 if (empty($params['token'])) {
     return 'Token required';
