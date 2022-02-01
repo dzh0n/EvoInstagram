@@ -7,3 +7,5 @@
   &ownerTPL=`main_instagram_wrap`
   !]
 </code>
+<br>
+https://it-blog.ru/php/vyvod-postov-iz-instagram-na-sajt-s-pomoshhyu-api/
